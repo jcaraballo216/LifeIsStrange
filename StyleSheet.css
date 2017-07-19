@@ -1,4 +1,9 @@
 ﻿
+/*general styling*/
+body {
+    background-color: #FFF6F0;
+}
+
 /*HEADER STYLING*/
 #logoImg {
     width:200px;
