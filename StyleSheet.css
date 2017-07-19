@@ -29,3 +29,7 @@ nav#navvy.navbar.navbar-static-top {
 h1.container#trailer {
     text-align:right;
 }
+/*preview section styling*/
+.previewThem {
+    margin:auto;
+}
